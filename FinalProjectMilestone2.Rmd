@@ -1,28 +1,15 @@
 ---
 title: "FinalProjectMilestone2"
 output: html_document
+author: "Katherine Wang"
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+## Project 1: "Visualizing Migration" by Alexandra Norris
+What I first noticed about Alexandra's project was that she used a credible source of data, the World Bank's Data Bank, and explained where the World Bank got its data from, namely the IMF and other UN organizations. I enjoyed the quick and easy-to-understand video tutorial that made her complex website seem manageable to navigate. Furthermore, I liked the interactive features of her "Refugee Population Map," as well as the ability to zoom into certain regions where countries are clustered together so that I could view a country's number of refugees simply by hovering my mouse over that region. In my opinion, the map could leave a stronger effect on the audience if she could insert an image of the map's colors changing over time so that we could get a more comprehensive view of how the number of refugees has shifted. In her "Refugees and GDP" portion, although I liked her analysis of the positive/negative correlations between refugees and the three different GDP indicators, I felt that she could specify which country the graph applied to, as she simply states that it can apply to "a country." I wonder if the trend she highlights applies for all countries equally. 
 
-## R Markdown
+## Project 2: "Russian tweets and their effect on the 2016 US Presidential Election" by Enxhi Buxheli
+Enxhi's project caught my attention by the way he organized tons of data in very clear and succinct graphs. The graphs do an excellent job of showing the change in number of tweets over time, and the spikes are very clear to the audience. I also like how Enxhi offers some potential reasons for the spikes in the number of tweets about #BlackLivesMatter, such as the death of celebrities or the effect of new movie releases. I enjoyed his honesty in asking the audience for suggestions behind the change in number of tweets, as he doesn't want to speculate without proof. Although his graphs are neat, I feel that they can become a bit redundant due to the fact that they are all organized the same way (a bar graph) and have pretty much the same color. It might be more interesting for the audience to have different graph visualizations and formats. Finally, one thing Enxhi could do to make his graphs more cohesive is to place all the graphs together to compare the different amounts of tweets concerning different subjects (ex: #BlackLivesMatter versus Trump), and not just to have individual graphs showing the differences in number of tweets for one subject.
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
